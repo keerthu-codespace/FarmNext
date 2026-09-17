@@ -1,0 +1,6 @@
+{
+  "name": "FARMNEXT",
+  "description": "AI-assisted co-farming platform connecting Landowners, Agricultural Workers, and Urban Co-Farmers into transparent farming workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
